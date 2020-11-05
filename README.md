@@ -1,4 +1,4 @@
-# NLP_P2
+# NLP Project 2
 POS tagger using second order HMM model and Logistic Regression. 
 
 # NOTE
